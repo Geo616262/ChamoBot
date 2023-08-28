@@ -4,12 +4,6 @@
 
 # *** Chamo Bot***
 
-<p align="center">
-<img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="DORRAT-BOT-MD" width="900"/>
-</p>
-
-#  ***Anterior nombre: Dorrat-Bot-MD***
-Dorrat se seguira usando para distintas cosas y funciones.
 
 ### `—◉ ❤️BOTS OFICIALES`
 
