@@ -1,8 +1,8 @@
 
 
-# **POR AHORA ESTE REPOSITORIO NO TENDRA ACTUALIZACIONES, SE VA A HACER UNA VERSIÓN PRIVADA,EL REPOSITORIO IGUAL ESTA 100% FUNCIONAL.**
+# **BIENVENIDO AL REPOSITORIO DE GEORGE, ESPERO QUE TE GUSTE MI BOT.**
 
-# ***🔥 Shadow-Bot-MD 🔥***
+# *** Chamo Bot***
 
 <p align="center">
 <img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="DORRAT-BOT-MD" width="900"/>
