@@ -58,7 +58,7 @@ let handler = async (m, {conn, command, args}) => {
             teksbio,
             wm,
             pp,
-            "https://wa.me/972529277520 💬 ᴄʜᴀᴛs",
+            "https://wa.me/51962582146 💬 ᴄʜᴀᴛs",
             null,
             null,
             [
