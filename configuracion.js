@@ -22,7 +22,7 @@ import uploadImage from "./lib/uploadImage.js";
 //cambia los números que sean propietarios
 global.owner = [
 /*╔══════════════════╗*/
-/*║ ❒*/ ["51962582156", "George-Creador", true],
+/*║ ❒*/ ["51962582146", "George-Creador", true],
 /*║ ❒*/ [""],
 /*║ ❒*/ [""],
 /*║ ❒*/ [""],
