@@ -48,15 +48,15 @@ await conn.sendMessage(m.chat, {
   "containsAutoReply": true,  
   "mediaType": 1,   
   "thumbnail": fotogodzx,  
-  "mediaUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`,  
-  "sourceUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`  
+  "mediaUrl": `https://chat.whatsapp.com/BjpxEISCFXw2JkNyCS57Im`,  
+  "sourceUrl": `https://chat.whatsapp.com/BjpxEISCFXw2JkNyCS57Im`  
   }  
   }  
   }, { quoted: m })
 }  
 if (command == "menucompleto" || command == "allmenu") {
 await m.reply(`[ 𝐂𝐀𝐑𝐆𝐀𝐍𝐃𝐎 𝐌𝐄𝐍𝐔... ]`);                 
-var completomenu = `*╭━━❍𝑺𝒉𝒂𝒅𝒐𝒘𝑩𝒐𝒕❍━━╮* 
+var completomenu = `*╭━━❍Chamo Bot❍━━╮* 
  *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
  *┃╭━━━━━━━━━━━━━━━━╾•* 
  *┃┃  ❍ ${ucapan()} ❍* 
