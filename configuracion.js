@@ -23,7 +23,7 @@ import uploadImage from "./lib/uploadImage.js";
 global.owner = [
 /*╔══════════════════╗*/
 /*║ ❒*/ ["51962582146", "George-Creador", true],
-/*║ ❒*/ [""],
+/*║ ❒*/ ["50374780534"],
 /*║ ❒*/ [""],
 /*║ ❒*/ [""],
 /*║ ❒*/ [""],
@@ -43,9 +43,9 @@ global.owner = [
 /*║ ❒*/ [""] 
 /*╚══════════════════╝*/                     ];
 /*┌--------------*/
-/*├➢*/ global.suittag = ["51962582146"];
-/*├➢*/ global.mods = ["51962582146"];
-/*├➢*/ global.prems = ["51962582146"];
+/*├➢*/ global.suittag = ["50374780534"];
+/*├➢*/ global.mods = ["50374780534"];
+/*├➢*/ global.prems = ["50374780534"];
 /*└────ׂ─ׂ─ׂ─ׂ───*/
 const opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse());
 global.prefix = new RegExp(
