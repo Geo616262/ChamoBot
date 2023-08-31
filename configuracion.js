@@ -124,13 +124,13 @@ global.dorre = "DORRAT-BOT-MD";
 global.DORRA = dorre;
 
 /* Imagenes___________________ */
-global.imagen1 = fs.readFileSync("./Menu2.jpg");
-global.imagen2 = fs.readFileSync("./galeria/nuevobot.jpg");
-global.imagen3 = fs.readFileSync("./galeria/Pre Bot Publi.png");
-global.fotogodzx = fs.readFileSync("./galeria/Shadow.jpg");
-global.imagen4 = fs.readFileSync("./galeria/menudorrat3.jpg");
-global.imagen5 = fs.readFileSync("./galeria/menudorrat5.png");
-global.video1 = fs.readFileSync("./galeria/dorratmini.mp4");
+global.imagen1 = fs.readFileSync("./galeria/IMG-20230830-WA0139.jpg");
+global.imagen2 = fs.readFileSync("./galeria/IMG-20230830-WA0139.jpg");
+global.imagen3 = fs.readFileSync("./galeria/IMG-20230830-WA0139.png");
+global.fotogodzx = fs.readFileSync("./galeria/IMG-20230830-WA0139.jpg");
+global.imagen4 = fs.readFileSync("./galeria/IMG-20230830-WA0139.jpg");
+global.imagen5 = fs.readFileSync("./galeria/IMG-20230830-WA0139.png");
+global.video1 = fs.readFileSync("./galeria/IMG-20230830-WA0139.mp4");
 global.dorratMenu = [imagen1, imagen4];
 global.pdoc = [
   "application/vnd.openxmlformats-officedocument.presentationml.presentation",
